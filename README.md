@@ -35,21 +35,20 @@
 <br>
 <span align="center">
 
+<code><img title="HTML5" height="25" src="images/html5.svg"></code>
+<code><img title="CSS" height="25" src="images/css.svg"></code>
+<code><img title="SCSS" height="25" src="images/sass.svg"></code>
+<code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
 <code><img title="React" height="25" src="images/react-original.svg"></code>
 <code><img title="Redux" height="25" src="images/redux.svg"></code>
-<code><img title="jQuery" height="25" src="images/jquery-original.svg"></code>
-<code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
-<code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-<code><img title="CSS" height="25" src="images/css.svg"></code>
-<code><img title="HTML5" height="25" src="images/html5.svg"></code>
-<code><img title="SCSS" height="25" src="images/sass.svg"></code>
+<code><img title="Webpack" height="25" src="images/webpack.svg"></code>
 <code><img title="Parcel" height="25" src="images/parcel.png"></code>
-<code><img title="Grunt" height="25" src="images/grunt-logo.svg"></code>
-<code><img title="Git" height="25" src="images/git-original.svg"></code>
-<code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-<code><img title="JSON" height="25" src="images/json.svg"></code>
-<code><img title="GitHub" height="25" src="images/github.svg"></code>
 <code><img title="npm" height="25" src="images/npm.svg"></code>
+<code><img title="JSON" height="25" src="images/json.svg"></code>
+<code><img title="Git" height="25" src="images/git-original.svg"></code>
+<code><img title="GitHub" height="25" src="images/github.svg"></code>
+<code><img title="VSCode" height="25" src="images/vscode.png"></code>
+<code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
 
 </span>
 <hr>
